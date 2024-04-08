@@ -1,0 +1,7 @@
+../User/BLE/ble_advertising.c:64:19:BLE_Adv_Init	72	static
+../User/BLE/ble_advertising.c:132:13:BLE_Adv	16	static
+../User/BLE/ble_advertising.c:172:16:u8StatusbitmapToUint	24	static
+../User/BLE/ble_advertising.c:180:6:BLE_Adv_Process	8	static
+../User/BLE/ble_advertising.c:199:6:BLE_SetPachaBleID	64	static
+../User/BLE/ble_advertising.c:211:6:BLE_GetMacAddress	48	static
+../User/BLE/ble_advertising.c:233:6:BLE_GetMacAddressForLocalName	32	static

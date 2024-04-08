@@ -1,0 +1,2 @@
+../STM32_WPAN/App/eddystone_url_service.c:39:12:EddystoneURL_Init	7
+../STM32_WPAN/App/eddystone_url_service.c:138:6:EddystoneURL_Process	1

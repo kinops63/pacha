@@ -1,0 +1,9 @@
+../STM32_WPAN/App/app_ble.c:514:13:Beacon_Update	0	static,ignoring_inline_asm
+../STM32_WPAN/App/app_ble.c:630:13:BLE_UserEvtRx	8	static
+../STM32_WPAN/App/app_ble.c:650:13:BLE_StatusNot	0	static
+../STM32_WPAN/App/app_ble.c:133:6:APP_BLE_Init	112	static
+../STM32_WPAN/App/app_ble.c:256:28:SVCCTL_App_Notification	0	static
+../STM32_WPAN/App/app_ble.c:609:6:hci_notify_asynch_evt	0	static
+../STM32_WPAN/App/app_ble.c:616:6:hci_cmd_resp_release	0	static
+../STM32_WPAN/App/app_ble.c:623:6:hci_cmd_resp_wait	0	static
+../STM32_WPAN/App/app_ble.c:689:6:SVCCTL_ResumeUserEventFlow	0	static

@@ -1,0 +1,6 @@
+../User/BLE/ble_advertising.c:211:6:BLE_GetMacAddress	2
+../User/BLE/ble_advertising.c:233:6:BLE_GetMacAddressForLocalName	3
+../User/BLE/ble_advertising.c:199:6:BLE_SetPachaBleID	1
+../User/BLE/ble_advertising.c:64:19:BLE_Adv_Init.constprop.isra	3
+../User/BLE/ble_advertising.c:180:6:BLE_Adv_Process	1
+../User/BLE/ble_advertising.c:132:13:BLE_Adv	4
